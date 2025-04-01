@@ -1,1 +1,5 @@
-Django==5.1.0
+Django==5.1.7
+graphene-django==3.2.3
+django-cors-headers==4.3.1
+
+
